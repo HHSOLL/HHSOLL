@@ -1,37 +1,48 @@
 # KIMHANSOL
 
-**Product Builder for 3D Web Experiences**
+PM focused on interactive 3D web products, product planning, and presentation.
+I work on turning rough ideas into product scope, user flows, planning docs, and demos that teams can actually build from.
 
-I turn product ideas into clear scope, user flows, planning docs, and working demos.
-Focused on 3D interfaces, interaction-heavy products, and travel experiences.
+If you are building an interaction-heavy product around 3D interfaces, fitting, spatial editing, or travel experience, I am interested in that kind of work.
 
-[Plan2Space](https://github.com/HHSOLL/Plan2Space) ·
-[FreeStyle](https://github.com/HHSOLL/freestyle) ·
-[RecordTravel](https://github.com/HHSOLL/RecordTravel) ·
-[GreenCheck](https://github.com/orgs/GreenCheck-ducksoong/repositories)
+**Highlights**
 
-## Featured Projects
+- [Plan2Space](https://github.com/HHSOLL/Plan2Space)  
+  Space-first room builder and deskterior editor with a shareable read-only 3D viewer.
+- [FreeStyle](https://github.com/HHSOLL/freestyle)  
+  Mannequin-first real-time 3D wardrobe and fitting product built around avatar runtime and garment interaction.
+- [RecordTravel](https://github.com/HHSOLL/RecordTravel)  
+  Globe-based travel archive and planner focused on trip records and local-first travel experience.
+- [GreenCheck](https://github.com/orgs/GreenCheck-ducksoong/repositories)  
+  PM, service planning, and presentation across the product work.
 
-### Plan2Space
-A space-first interior product where users build a room, edit deskterior layouts, and share a read-only 3D view.  
-**Role:** PM / Product Planning
+**3D Product Direction**
 
-### FreeStyle
-A mannequin-first real-time 3D wardrobe and fitting product built around body profile, avatar runtime, and garment interaction.  
-**Role:** PM / Product Planning
+- spatial editing flows
+- avatar, garment, and fitting product planning
+- interaction-heavy web interfaces
+- turning technical systems into understandable product structure
 
-### RecordTravel
-A travel archive and planner centered on globe-based exploration, trip records, and local-first travel experience.  
-**Role:** PM / Product Planning
+**Planning Work**
 
-## What I Do
-- Define product scope and feature structure
-- Design user flows and information architecture
-- Write planning and execution documents
-- Turn ideas into demos teams can align on
+- product scope and feature structure
+- user flow and information architecture
+- planning docs and execution alignment
+- presentation and narrative for demos, reviews, and delivery
 
-## Experience
-- GreenCheck — PM / Service Planning / Presentation
+**Current Repositories**
 
-## Extras
-- Baekjoon: Gold I
+- [Plan2Space](https://github.com/HHSOLL/Plan2Space)
+- [freestyle](https://github.com/HHSOLL/freestyle)
+- [RecordTravel](https://github.com/HHSOLL/RecordTravel)
+- [green-check-FE](https://github.com/GreenCheck-ducksoong/green-check-FE)
+- [green-check-BE](https://github.com/GreenCheck-ducksoong/green-check-BE)
+
+**Algorithm**
+
+- Baekjoon Gold I
+
+**Links**
+
+- [GitHub](https://github.com/HHSOLL)
+- [Portfolio](https://hhsoll.github.io/)
